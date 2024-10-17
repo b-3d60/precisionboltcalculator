@@ -1,0 +1,20 @@
+/* Add this to your existing App.css */
+.error-display {
+  background-color: #ffebee;
+  color: #b71c1c;
+  padding: 20px;
+  border-radius: 4px;
+  margin: 20px;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.error-display h1 {
+  margin-top: 0;
+}
+
+.error-display pre {
+  background-color: #ffcdd2;
+  padding: 10px;
+  border-radius: 4px;
+}
